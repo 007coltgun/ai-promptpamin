@@ -1,1 +1,78 @@
+privacy Policy for AI PromptAmin
+Effective Date: April 25, 2025
+
+1. Introduction
+AI PromptAmin (“we,” “our,” or “the Extension”) respects your privacy and is committed to protecting your data. This Privacy Policy explains what information we collect, how we use it, and your choices.
+
+2. Information We Collect
+User-Selected Text
+• When you highlight text on a webpage and invoke the tooltip, the selected text is sent to the Google Gemini API for AI processing.
+• We do not store or log the content of your selected text on our servers—processing happens in real time and responses are returned directly to your browser.
+Extension Settings & Preferences
+• We store your language preference (English ↔ فارسی) and whether the extension is enabled or disabled.
+• These preferences are saved in your Chrome Sync storage so they sync across your signed-in devices.
+Technical Data
+• Browser and version, operating system, and basic telemetry to help us diagnose errors and improve performance.
+• This data is anonymized and cannot be used to identify you personally.
+3. How We Use Your Information
+• To provide the core functionality of AI PromptAmin (i.e., sending selected text to the AI API and displaying results).
+• To remember your preferences and restore your settings.
+• To troubleshoot and improve stability, performance, and user experience.
+
+4. Data Sharing & Disclosure
+• We do not sell, rent, or trade any of your data.
+• We only share selected text with the Google Gemini API (or other AI service you configure) for processing.
+• We may disclose information if required by law or to protect rights and safety.
+
+5. Data Security
+• All communication with external APIs is encrypted over HTTPS.
+• We follow industry best practices to secure data in transit.
+• No sensitive personal data is stored on our servers.
+
+6. Your Choices and Control
+• You can disable the extension at any time via the toggle in the popup—this stops all data flow.
+• You can clear or change your language and style preferences in Settings.
+• To remove all extension data, uninstall AI PromptAmin from Chrome; your sync data and local settings will be deleted.
+
+7. Children’s Privacy
+AI PromptAmin is not directed at children under 13. We do not knowingly collect personal information from children.
+
+8. Changes to This Policy
+We may update this Policy occasionally. The “Effective Date” above will reflect the most recent revision. Continued use of the extension after changes indicates your acceptance.
+
+9. Contact Us
+If you have questions or concerns about this Privacy Policy, please contact:
+Amin Javadi Azad
+Email: aminjavadiazad@gmail.com
+GitHub: https://github.com/007coltgun/
+
+
+
+
+
+in persian language:
+# خط‌مشی حریم خصوصی AI PromptAmin
+
+**آخرین به‌روزرسانی:** ۱ اردیبهشت ۱۴۰۴
+
+## ۱. جمع‌آوری و ذخیره‌سازی داده‌ها  
+- این افزونه **هیچ داده‌ٔ شخصی** (نام، ایمیل، موقعیت مکانی و…) از شما جمع‌آوری یا ذخیره نمی‌کند.  
+- تنها داده‌ای که موقتاً پردازش می‌شود، **متنی است که خود شما انتخاب می‌کنید** تا به سرورهای Google Gemini API ارسال شود و پاسخ آن دریافت و به شما نمایش داده شود.  
+- تنظیمات کاربری (زبان، سبک رابط، وضعیت فعال/غیرفعال) در **Chrome storage.sync** ذخیره می‌شود و صرفاً روی دستگاه شما نگهداری می‌شود.
+
+## ۲. استفاده از سرویس شخص‌ثالث  
+- افزونه برای تولید پاسخ از **Google Gemini API** استفاده می‌کند. متون انتخابی شما به سرورهای Google ارسال می‌شود و پس از پردازش، پاسخ به مرورگر شما برمی‌گردد.  
+- ما هیچ‌گونه لاگ یا تاریخچه‌ای از درخواست‌های شما نگهداری نمی‌کنیم.
+
+## ۳. محافظت از داده‌ها  
+- تمام ارتباط با سرورهای Google از طریق HTTPS صورت می‌گیرد.  
+- هیچ سروری در مالکیت ما نیست و هیچ داده‌ای در سرورهای خود ذخیره نمی‌کنیم.
+
+## ۴. حقوق کاربر  
+- شما می‌توانید در هر زمان با غیرفعال کردن افزونه، ارسال متن به API را متوقف کنید.  
+- در صورت هرگونه سؤال یا درخواست حذف اطلاعات (تنظیمات ذخیره‌شده)، با ایمیل زیر تماس بگیرید:
+
+> aminjavadiazad@gmail.com
+https://github.com/007coltgun/
+---
 
